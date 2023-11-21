@@ -1,0 +1,3 @@
+pyfiglet~=0.8.post1
+stegano~=0.11.2
+colorama~=0.4.6
